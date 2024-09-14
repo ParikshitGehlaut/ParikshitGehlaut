@@ -2,11 +2,11 @@
 
 :heart: Programming | :blue_heart: Anime
 
- I’m @ParikshitGehlaut a second year Computer Science at IIT Dharwad. I love Machine Learning and trying to find more about Full Stack Web Development
+ I’m @ParikshitGehlaut a third year Computer Science at IIT Dharwad. I love Machine Learning and trying to find more about Full Stack Web Development
 
 - 👀 I’m interested in Web Development and AI/ML;
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Deep learning;
+- 🌱 I’m currently learning Computer Vision and Generative Models;
 - 💞️ I’m looking to collaborate on open source projects;
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Fact: The "fox" in the Mozilla Firefox logo is actually a red panda.
