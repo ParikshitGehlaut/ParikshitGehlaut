@@ -17,4 +17,6 @@
 |---|---|---|---|---|
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParikshitGehlaut&show_icons=true&theme=radical&rank_icon=percentile)
 
+![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParikshitGehlaut&layout=compact&theme=radical)
