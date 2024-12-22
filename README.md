@@ -1,8 +1,8 @@
 ### 👋 Hey! 
 
-:heart: Programming | :blue_heart: Anime
+:heart: Programming | :blue_heart: Open-Source
 
- I’m @ParikshitGehlaut a third year Computer Science at IIT Dharwad. I love Machine Learning and trying to find more about Full Stack Web Development
+ I’m @ParikshitGehlaut a third year Computer Science student at IIT Dharwad. I love Machine Learning and trying to find more about Full Stack Web Development
 
 - 👀 I’m interested in Web Development and AI/ML;
 - 👨🏽‍💻 I’m currently working on improving my techskill;
